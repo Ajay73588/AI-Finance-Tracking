@@ -41,7 +41,7 @@ OpenAI API
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/Ajay73588/chat-bot.git
+git clone https://github.com/Ajay73588/AI-Finance-Tracking.git
 cd chat-bot
 
 2. Install dependencies
